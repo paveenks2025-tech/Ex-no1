@@ -65,10 +65,12 @@ END
 |          1203: 34          |                           |
 ----------------------------------------------------------
 #### Manual Calculations\
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/1b425415-8809-4e60-bf3e-4a8a95e66119" />
 
 (Add your calculation here)
 
----
+---<img width="85" height="168" alt="Screenshot 2026-05-14 120859" src="https://github.com/user-attachments/assets/54275ce8-43ed-467a-9eee-a55762447f71" />
+
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
@@ -124,6 +126,9 @@ END
 
 #### Manual Calculations
 
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/1accdd8f-afbf-4cbb-b7c0-99cbad2e5176" />
+<img width="83" height="180" alt="Screenshot 2026-05-14 120928" src="https://github.com/user-attachments/assets/7611e904-a35b-4376-93b9-f7e8d845a608" />
+
 (Add your calculation here)
 
 ---
@@ -141,6 +146,7 @@ END
 4. Store result.
 
 ##FLOWCHART
+
 
 <img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
 
@@ -180,6 +186,9 @@ END
 #### Manual Calculations
 
 (Add your calculation here)
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/30807205-5dc7-47eb-a46f-52c77ecac463" />
+
+<img width="90" height="222" alt="Screenshot 2026-05-14 121022" src="https://github.com/user-attachments/assets/33da474d-5ae0-4e61-b456-7c8c516ed30f" />
 
 ---
 
@@ -194,7 +203,6 @@ END
 3. Store result.
 
    ## FLOWCHART
-<img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
 
 
 #### Program
@@ -230,10 +238,13 @@ END
 ----------------------------------------------------------
 
 #### Manual Calculations
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/feece72d-b207-4a83-a928-495c0c81951b" />
+
 
 (Add your calculation here)
 
----
+---<img width="89" height="237" alt="Screenshot 2026-05-14 121008" src="https://github.com/user-attachments/assets/a7b3e360-0c4d-4b2c-a2fc-8354910841d7" />
+
 ## OUTPUT FROM MASM SOFTWARE
 
 
