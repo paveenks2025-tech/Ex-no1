@@ -65,7 +65,7 @@ END
 |          1203: 34          |                           |
 ----------------------------------------------------------
 #### Manual Calculations\
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/1b425415-8809-4e60-bf3e-4a8a95e66119" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/1b425415-8809-4e60-bf3e-4a8a95e66119" />
 
 (Add your calculation here)
 
@@ -126,7 +126,7 @@ END
 
 #### Manual Calculations
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/1accdd8f-afbf-4cbb-b7c0-99cbad2e5176" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/1accdd8f-afbf-4cbb-b7c0-99cbad2e5176" />
 <img width="83" height="180" alt="Screenshot 2026-05-14 120928" src="https://github.com/user-attachments/assets/7611e904-a35b-4376-93b9-f7e8d845a608" />
 
 (Add your calculation here)
@@ -186,7 +186,7 @@ END
 #### Manual Calculations
 
 (Add your calculation here)
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/30807205-5dc7-47eb-a46f-52c77ecac463" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/30807205-5dc7-47eb-a46f-52c77ecac463" />
 
 <img width="90" height="222" alt="Screenshot 2026-05-14 121022" src="https://github.com/user-attachments/assets/33da474d-5ae0-4e61-b456-7c8c516ed30f" />
 
@@ -238,7 +238,7 @@ END
 ----------------------------------------------------------
 
 #### Manual Calculations
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/feece72d-b207-4a83-a928-495c0c81951b" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/feece72d-b207-4a83-a928-495c0c81951b" />
 
 
 (Add your calculation here)
